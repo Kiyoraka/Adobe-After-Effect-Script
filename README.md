@@ -1,6 +1,6 @@
-# PROJECT TITLE 
+# COLLECTION OF ADOBE AFTER EFFECT SCRIPT
  
-Software Version: [Version] 
  
-## Description 
-This software is used for... 
+## CONTENT
+
+1. **Auto Audio Track Alignment Script**
